@@ -1,4 +1,4 @@
-#`Bonch API`
+#Bonch API
 ___
 API основанное на парсинге сайта sut.ru, 
 в данный момент позволяет получить данные о группах, 
@@ -11,7 +11,7 @@ https://bonch.ssapi.ru/
 
 **Неверный метод**
 
-![1](https://sun9-6.userapi.com/impg/p_hVQlLahr3fHVXoMX1wQrgvTQDRwg6nYw7o3w/wpI6uutQ0dQ.jpg?size=1342x570&quality=96&sign=e3b9df8369eaaaa161cf892e66195349&type=album)
+![1](https://sun9-45.userapi.com/impg/s0pJo-pdPty3FR2xzFgKGF_8FLz_eBqUQOJQWA/HvafAr5tM-o.jpg?size=1140x562&quality=96&sign=aee02c7ad41994ee1bc6b7cd3fc77d73&type=album)
 ![2](https://sun9-57.userapi.com/impg/Ol_SV1SFfrxtlWZAVLxsq9NcKyw5Xk8rKSTmFw/ImWMXWbmHOA.jpg?size=1166x560&quality=96&sign=bd6208a60c6dd272e8e33afa693416e3&type=album)
 
 ---
