@@ -1,0 +1,15 @@
+{
+    "name": "k-orolevsk-y/bonch_api",
+    "description": "API based on parsing the official Bonch website",
+    "type": "project",
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "k-orolevsk-y",
+            "email": "i@korolevsky.me"
+        }
+    ]
+}
