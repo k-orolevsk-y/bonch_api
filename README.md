@@ -44,7 +44,7 @@ https://bonch.ssapi.ru/
 **groups.getAll** — получить все группы
 
     Параметры:
-        метод не принимает параметров
+        name: string — название направления, вернёт группы только этого направления
     Результат:
 ![Результат](https://sun9-17.userapi.com/impg/W8jxSBwqWSK2D8VKd2SjXkn47EFp6FCLUs3zsA/nN1BAKxgpJ8.jpg?size=1368x1982&quality=96&sign=895b932df0f0e28e259606378b36d913&type=album)
 
@@ -71,7 +71,7 @@ https://bonch.ssapi.ru/
 
 ---
 
-**scedule.getWeek** — получает расписание группы на неделю
+**schedule.getWeek** — получает расписание группы на неделю
 
     Параметры:
         group_id: integer, required — ID группы
